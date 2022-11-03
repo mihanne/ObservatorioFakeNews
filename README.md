@@ -8,7 +8,7 @@ O grupo de Estudos e Pesquisa em Inteligência Artificial - Mundo Novo (GepIA) v
 ## Alunos:
 
 Nome                              | E-mail                        | Curso                                       | Tipo de Atividade
---------------------------------------------------------------------------------------------------------------------------------------
+:---------------------------------|:------------------------------|:--------------------------------------------|:--------------------
 Cristiane Duarte Soares           | cris_dusoares@hotmail.com     |	Análise e Desenvolvimento de Sistemas-EAD	  |	Voluntário
 Hiann Soledade de Araujo Jumonji  | hiann.jumonji@gmail.com       |	Engenharia da Computação                    |	Voluntário
 Matheus Machado Barreto	          | machadom729@gmail.com         |	Engenharia Elétrica                         |	Voluntário
