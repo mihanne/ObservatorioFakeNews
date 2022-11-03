@@ -18,13 +18,16 @@ Otávio Venâncio                   | otaviorodriguesv@hotmail.com  | Ex-aluno d
 ## Professores:
 
 Michelle Hanne Soares de Andrade michelle.andrade@newtonpaiva.br
+
+
 Ruy Barbosa Figueiredo Junior ruyfigueiredo.prof@newtonpaiva.br
 
-##Contribuições:
+
+## Contribuições:
 Parceriais e contribuições serão bem vindas! Escreva para michelle.andrade@newtonpaiva.br e/ou ruyfigueiredo.prof@newtonpaiva.br
 
 
-##Licença:
+## Licença:
 Framework Observatório Fake News is open source and has Apache 2.0 License: License
 
 
