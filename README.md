@@ -28,7 +28,7 @@ Parceriais e contribuições serão bem vindas! Escreva para michelle.andrade@ne
 
 
 ## Licença:
-Framework Observatório Fake News is open source and has Apache 2.0 License: !License (https://github.com/GepIA/ObservatorioFakeNews/blob/main/LICENSE)
+Framework Observatório Fake News is open source and has Apache 2.0 License: [License](https://github.com/GepIA/ObservatorioFakeNews/blob/main/LICENSE)
 
 
 
